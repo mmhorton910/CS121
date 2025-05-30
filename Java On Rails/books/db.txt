@@ -1,0 +1,1 @@
+id ｜ class(books.Book) ｜ title ｜ author ｜ num_copies
